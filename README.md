@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/muhammadtaimoorajmal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Production-Grade+Full-Stack+Systems;MERN+%7C+Cloud-Native+%7C+Container+Orchestration;Low-Level+Systems+%2B+High-Level+Architecture;Open+to+Internships+%E2%80%94+Let%27s+Build+Something." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Production-Grade+Full-Stack+Systems;MERN+%7C+Cloud-Native+%7C+Container+Orchestration;Low-Level+Systems+%2B+High-Level+Architecture;+%E2%80%94+Let%27s+Build+Something." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -17,8 +17,6 @@
 <a href="mailto:taimoorajmal00@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-taimoorajmal00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
@@ -160,7 +158,7 @@ Currently deepening expertise in **distributed systems design**, **AWS architect
   <tr>
     <td align="center">
       <strong>Building something ambitious?</strong><br/>
-      I'm available for <strong>internships</strong>, open-source collaborations, and engineering conversations.<br/><br/>
+      I'm available for open-source collaborations and engineering conversations.<br/><br/>
       <a href="https://linkedin.com/in/muhammadtaimoorajmal">
         <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
