@@ -61,15 +61,17 @@
 
 ---
 
+---
+
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad Taimoor Ajmal&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad Taimoor Ajmal&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadtaimoorajmal&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtaimoorajmal&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Muhammad Taimoor Ajmal/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/muhammadtaimoorajmal/count.svg" alt="Visitor Count" />
 </div>
 
 <div align="center">
