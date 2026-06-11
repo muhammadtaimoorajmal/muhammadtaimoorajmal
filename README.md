@@ -73,6 +73,8 @@ I am a backend-oriented full-stack engineer and Computer Science undergraduate s
 
 ---
 
+---
+
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
@@ -83,13 +85,12 @@ I am a backend-oriented full-stack engineer and Computer Science undergraduate s
 <br>
 
 <div align="center">
-  <a href="https://github.com/muhammadtaimoorajmal">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadtaimoorajmal&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Profile_Views-Tracked-38BDF8?style=for-the-badge&logo=github" alt="Views Tracking Active" />
+  <img src="https://img.shields.io/badge/Open_To-Internships_&_Develoment-38BDF8?style=for-the-badge" alt="Open to Work" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/muhammadtaimoorajmal/count.svg" alt="Visitor Count" />
+  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </div>
