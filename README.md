@@ -117,9 +117,9 @@ philosophy: |
 
 ## 🧠 AI Engineering
 
-Completed a **10-week Backend AI Engineering Internship at FlyRank AI** **550+ hours**, **36 assignments**, **6 accepted capstones**, and **20+ Anthropic Academy courses**.
+Completed a **10-week Backend AI Engineering Internship at FlyRank AI** — **550+ hours**, **36 assignments**, **6 accepted capstones**, and **20+ Anthropic Academy courses**.
 
-Beyond raw LLM API calls engineered AI systems with **structure, boundaries, validation, reliability, and operational thinking**.
+Beyond raw LLM API calls — engineered AI systems with **structure, boundaries, validation, reliability, and operational thinking**.
 
 ```text
   Problem Definition
@@ -457,12 +457,26 @@ Engineering
 <details>
 <summary><b>Additional Certifications (click to expand)</b></summary>
 
-- C++ Essentials 2 OpenEDG C++ Institute
-- Computer Hardware Basics Cisco Networking Academy
-- Introduction to Internet of Things Cisco Networking Academy
+- C++ Essentials 2 — OpenEDG C++ Institute
+- Computer Hardware Basics — Cisco Networking Academy
+- Introduction to Internet of Things — Cisco Networking Academy
 - IEEE Computer Society Summer School '24
 
 </details>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadtaimoorajmal/snake_animation/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadtaimoorajmal/snake_animation/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/muhammadtaimoorajmal/snake_animation/output/snake.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
@@ -470,17 +484,17 @@ Engineering
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadtaimoorajmal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadtaimoorajmal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&cache_seconds=21600" alt="GitHub Stats" />
 &nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtaimoorajmal&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="Streak" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtaimoorajmal&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=10" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtaimoorajmal&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=10&cache_seconds=21600" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadtaimoorajmal&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadtaimoorajmal&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true&cache_seconds=21600" alt="Activity Graph" />
 
 </div>
 
@@ -490,7 +504,7 @@ Engineering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadtaimoorajmal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadtaimoorajmal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&cache_seconds=21600" alt="Trophies" />
 
 </div>
 
@@ -501,19 +515,19 @@ Engineering
 <div align="center">
 
 <a href="https://github.com/muhammadtaimoorajmal/nexus-ai-converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=nexus-ai-converter&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nexus" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=nexus-ai-converter&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="Nexus" />
 </a>
 <a href="https://github.com/muhammadtaimoorajmal/ai-decision-flow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=ai-decision-flow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AIDF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=ai-decision-flow&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="AIDF" />
 </a>
 
 <br/>
 
 <a href="https://github.com/muhammadtaimoorajmal/cloud-architect-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=cloud-architect-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CloudArch" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=cloud-architect-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="CloudArch" />
 </a>
 <a href="https://github.com/muhammadtaimoorajmal/task-forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=task-forge&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskForge" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=task-forge&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="TaskForge" />
 </a>
 
 </div>
@@ -547,7 +561,7 @@ I'm open to **engineering collaborations, software projects, open-source work, a
 <br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,55:164E63,100:020617&height=140&section=footer&animation=twinkling" alt="Footer" />
- 
-<sub><i>"From idea to production-ready systemswith structure, boundaries, and reliability."</i></sub>
+
+<sub><i>"From idea to production-ready systems — with structure, boundaries, and reliability."</i></sub>
 
 </div>
