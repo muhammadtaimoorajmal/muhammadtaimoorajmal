@@ -47,7 +47,7 @@ focus:
   - Databases, authentication, cloud deployments
   - End-to-end product engineering: idea → production
 
-philosophy: |
+philosophy: 
   Turning AI capabilities into real software systems that validate inputs,
   handle failure gracefully, enforce boundaries, stay observable, and solve
   an actual product problem.
@@ -112,9 +112,9 @@ philosophy: |
 
 ## 🧠 AI Engineering
 
-Completed a **10-week Backend AI Engineering Internship at FlyRank AI** — **550+ hours**, **36 assignments**, **6 accepted capstones**, and **20+ Anthropic Academy courses**.
+Completed a **10-week Backend AI Engineering Internship at FlyRank AI** **550+ hours**, **36 assignments**, **6 accepted capstones**, and **20+ Anthropic Academy courses**.
 
-Beyond raw LLM API calls — engineered AI systems with **structure, boundaries, validation, reliability, and operational thinking**.
+Beyond raw LLM API calls engineered AI systems with **structure, boundaries, validation, reliability, and operational thinking**.
 
 ```text
   Problem Definition
@@ -159,7 +159,7 @@ Beyond raw LLM API calls — engineered AI systems with **structure, boundaries,
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadtaimoorajmal/nexus-ai-converter)
 
-AI-powered meeting intelligence — converts **audio / video / text** into transcripts, summaries, and actionable tasks.
+AI-powered meeting intelligence converts **audio / video / text** into transcripts, summaries, and actionable tasks.
 
 `Next.js 14` `TypeScript` `Express` `MongoDB` `Groq` `Whisper`
 
@@ -183,7 +183,7 @@ Resilient backend for **usage metering, quota enforcement, token-cost calculatio
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadtaimoorajmal/flyrank-capstone-social-media-studio)
 
-Multi-platform publishing — **adapter architecture, durable scheduling, rate-limit handling, idempotent execution**.
+Multi-platform publishing **adapter architecture, durable scheduling, rate-limit handling, idempotent execution**.
 
 `Node.js` `Express` `Adapter Pattern` `Scheduling`
 
@@ -293,7 +293,7 @@ Autonomous data-engineering agent built around the **Model Context Protocol** fo
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Flappy Bird AI — PSO
+### 🧠 Flappy Bird AI PSO
 **Multi-Agent AI Simulation**
 - Particle Swarm Optimization
 - Euler integration · autonomous agents
@@ -373,7 +373,7 @@ Autonomous data-engineering agent built around the **Model Context Protocol** fo
 ### 04
 **Human in Control**
 
-<sub>AI as an engineering multiplier — humans retain judgment over architecture and decisions.</sub>
+<sub>AI as an engineering multiplier; humans retain judgment over architecture and decisions.</sub>
 
 </td>
 </tr>
@@ -452,9 +452,9 @@ Engineering
 <details>
 <summary><b>Additional Certifications (click to expand)</b></summary>
 
-- C++ Essentials 2 — OpenEDG C++ Institute
-- Computer Hardware Basics — Cisco Networking Academy
-- Introduction to Internet of Things — Cisco Networking Academy
+- C++ Essentials 2 OpenEDG C++ Institute
+- Computer Hardware Basics Cisco Networking Academy
+- Introduction to Internet of Things Cisco Networking Academy
 - IEEE Computer Society Summer School '24
 
 </details>
