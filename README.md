@@ -1,21 +1,17 @@
 <!-- ══════════════════════════════════════════════════════════════════
-     MUHAMMAD TAIMOOR AJMAL — PROFILE README (GitHub-safe, fully rendered)
-     All motion comes from external animation services — no inline SVG.
+     MUHAMMAD TAIMOOR AJMAL — PROFILE README
 ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ╔══════════════ ANIMATED HERO (twinkling) ══════════════╗ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:38BDF8&height=260&section=header&text=Muhammad%20Taimoor%20Ajmal&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Backend%20Systems&descSize=16&descAlignY=58&descColor=BAE6FD&animation=twinkling" alt="Hero" />
 
-<!-- ╔══════════════ ANIMATED TYPING ══════════════╗ -->
 <a href="https://github.com/muhammadtaimoorajmal">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=%3E+Building+AI-Powered+Full-Stack+Systems_;%3E+LLMs+%7C+RAG+%7C+MCP+%7C+AI+Workflows_;%3E+TypeScript+%7C+Python+%7C+Node.js+%7C+Next.js_;%3E+From+Idea+to+Production-Ready+Engineering_" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ╔══════════════ SOCIAL BADGES ══════════════╗ -->
 <a href="https://linkedin.com/in/muhammadtaimoorajmal">
   <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Taimoor_Ajmal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -32,7 +28,6 @@
 
 <br/><br/>
 
-<!-- ╔══════════════ ANIMATED DIVIDER ══════════════╗ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:38BDF8,100:020617&height=3" alt="divider" />
 
 </div>
@@ -484,17 +479,17 @@ Engineering
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadtaimoorajmal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github&cache_seconds=21600" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-six-sandy-15.vercel.app/api?username=muhammadtaimoorajmal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats" />
 &nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtaimoorajmal&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="Streak" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadtaimoorajmal&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=10&cache_seconds=21600" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-six-sandy-15.vercel.app/api/top-langs/?username=muhammadtaimoorajmal&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=10" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadtaimoorajmal&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true&cache_seconds=21600" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph-nine-ochre.vercel.app/graph?username=muhammadtaimoorajmal&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -504,7 +499,7 @@ Engineering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadtaimoorajmal&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&cache_seconds=21600" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/muhammadtaimoorajmal/github-profile-trophy/trophy-output/trophy.svg" alt="Trophies" />
 
 </div>
 
@@ -515,19 +510,19 @@ Engineering
 <div align="center">
 
 <a href="https://github.com/muhammadtaimoorajmal/nexus-ai-converter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=nexus-ai-converter&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="Nexus" />
+  <img src="https://github-readme-stats-six-sandy-15.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=nexus-ai-converter&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nexus" />
 </a>
 <a href="https://github.com/muhammadtaimoorajmal/ai-decision-flow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=ai-decision-flow&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="AIDF" />
+  <img src="https://github-readme-stats-six-sandy-15.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=ai-decision-flow&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AIDF" />
 </a>
 
 <br/>
 
 <a href="https://github.com/muhammadtaimoorajmal/cloud-architect-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=cloud-architect-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="CloudArch" />
+  <img src="https://github-readme-stats-six-sandy-15.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=cloud-architect-ai&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="CloudArch" />
 </a>
 <a href="https://github.com/muhammadtaimoorajmal/task-forge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=task-forge&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=21600" alt="TaskForge" />
+  <img src="https://github-readme-stats-six-sandy-15.vercel.app/api/pin/?username=muhammadtaimoorajmal&repo=task-forge&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskForge" />
 </a>
 
 </div>
@@ -562,6 +557,6 @@ I'm open to **engineering collaborations, software projects, open-source work, a
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,55:164E63,100:020617&height=140&section=footer&animation=twinkling" alt="Footer" />
 
-<sub><i>"From idea to production-ready systems — with structure, boundaries, and reliability."</i></sub>
+<sub><i>"From idea to production-ready systems with structure, boundaries, and reliability."</i></sub>
 
 </div>
