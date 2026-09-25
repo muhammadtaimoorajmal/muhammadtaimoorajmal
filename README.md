@@ -481,7 +481,7 @@ Engineering
 
 <img height="180" src="https://github-readme-stats-six-sandy-15.vercel.app/api?username=muhammadtaimoorajmal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&rank_icon=github" alt="GitHub Stats" />
 &nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtaimoorajmal&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="Streak" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtaimoorajmal&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&currStreakNum=FFFFFF&sideLabels=CBD5E1&sideNums=FFFFFF&dates=94A3B8" alt="Streak" />
 
 <br/><br/>
 
